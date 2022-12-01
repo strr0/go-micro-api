@@ -46,3 +46,5 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
+
+replace go-micro.dev/v4 v4.7.1-0.20220720091205-140f90b3540c => github.com/strr0/go-micro/v4 v4.0.0-20221130052652-0ed059b29ffa
